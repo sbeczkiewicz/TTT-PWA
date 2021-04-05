@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ttt-pwa-e95c1": {
+      "hosting": {
+        "TTT": [
+          "ttt-pwa-e95c1"
+        ]
+      }
+    }
+  }
+}
